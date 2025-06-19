@@ -119,6 +119,16 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &26112784 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9203522677292779515, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 1724110566}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &120542539 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9203522677292779515, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2033982489}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &137374505
 GameObject:
   m_ObjectHideFlags: 0
@@ -341,6 +351,16 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 272624254}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &306096981 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3715933846375133602, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2033982489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &321677353 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3715933846375133602, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2081871055}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &348107889
 GameObject:
   m_ObjectHideFlags: 0
@@ -449,6 +469,157 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 348107889}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &392437424
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 785933935932689934, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 932964556480054532, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "El 34% de las poblaciones de peces del mundo est\xE1n sobreexplotadas.\n\nLa
+        pesca ilegal, no declarada y no reglamentada (INDNR) representa hasta 26
+        millones de toneladas al a\xF1o.\n\nEsta pr\xE1ctica reduce la biodiversidad,
+        destruye h\xE1bitats y genera competencia desleal contra pescadores artesanales."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1067773303244597866, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 1840172391990293430, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 3778555352952512964, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7daf012675e54614fb1af29cc1f85d97, type: 3}
+    - target: {fileID: 3945634590137511552, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "La sobrepesca ocurre cuando se pesca m\xE1s r\xE1pido de lo que los
+        peces pueden reproducirse.\n\nLas redes de arrastre barren el fondo marino,
+        destruyendo ecosistemas fr\xE1giles.\n\nMuchas especies de peces como el
+        at\xFAn rojo o el bacalao han disminuido dr\xE1sticamente."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685710231056300319, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Elige pescado de fuentes sostenibles. Busca etiquetas como MSC, FIP
+        o Dolphin Safe.\n\nApoya a los pescadores locales y el consumo responsable.\n\nInf\xF3rmate
+        sobre las especies en peligro y evita consumirlas.\n\nParticipa en campa\xF1as
+        de educaci\xF3n y conservaci\xF3n marina.\n\nDifunde informaci\xF3n sobre
+        las consecuencias de la sobrepesca."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9396927
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.3420201
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946724093539431693, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 963194227}
+    - target: {fileID: 6218885454355560779, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Name
+      value: Grupo_PescaIlegal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farDistanceThreshold
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearDistanceThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farCanvases.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearCanvases.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 573051442}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1008161947}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1364534478}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1668011804}
+    - target: {fileID: 9081583912578131578, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Pesca ilegal y\n sobrepesca"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
 --- !u!1001 &436967848
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -550,6 +721,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 062d8979aeac53949934362800d8766a, type: 3}
+--- !u!1 &451126311 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6955806881170366113, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2033982489}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &531512471
 GameObject:
   m_ObjectHideFlags: 0
@@ -989,6 +1165,11 @@ Transform:
   - {fileID: 1621213620}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &573051442 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2456805173805335064, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 392437424}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &583059165
 GameObject:
   m_ObjectHideFlags: 0
@@ -1843,6 +2024,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &731887767 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2456805173805335064, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2033982489}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &792745074
 GameObject:
   m_ObjectHideFlags: 0
@@ -2383,6 +2569,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838036069}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &842293268 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3715933846375133602, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 1724110566}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &868752431
 GameObject:
   m_ObjectHideFlags: 0
@@ -2901,12 +3092,17 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12, y: 1, z: -26.27}
+  m_LocalPosition: {x: -12, y: 1, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1008161947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3715933846375133602, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 392437424}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1094849695
 GameObject:
   m_ObjectHideFlags: 0
@@ -3539,6 +3735,11 @@ Transform:
   - {fileID: 272624255}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1147144072 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2456805173805335064, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2081871055}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1156683100
 GameObject:
   m_ObjectHideFlags: 0
@@ -3647,6 +3848,16 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1156683100}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1265717829 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2456805173805335064, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 1724110566}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1364534478 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6955806881170366113, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 392437424}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1397713247
 GameObject:
   m_ObjectHideFlags: 0
@@ -4605,6 +4816,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1606796906}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1613433980 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6955806881170366113, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 1724110566}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1621213619
 GameObject:
   m_ObjectHideFlags: 0
@@ -4821,6 +5037,167 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1638487185}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1658995299 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9203522677292779515, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2081871055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1668011804 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9203522677292779515, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 392437424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1724110566
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 785933935932689934, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 932964556480054532, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "El oc\xE9ano absorbe cerca del 30% del CO\u2082 que emitimos a la atm\xF3sfera.\n\nAl
+        aumentar el CO\u2082, el pH del agua desciende, volvi\xE9ndose m\xE1s \xE1cido.\n\nEsto
+        afecta a organismos marinos como moluscos, corales, erizos y plancton, dificultando
+        que formen conchas y esqueletos."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1067773303244597866, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 1840172391990293430, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 3778555352952512964, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1d648ee249ed2f64c9c281e2cc3cb7c3, type: 3}
+    - target: {fileID: 3945634590137511552, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Desde la revoluci\xF3n industrial, la acidez del oc\xE9ano ha aumentado
+        un 30%.\n\nLa acidificaci\xF3n debilita cadenas alimentarias completas.\n\nAfecta
+        a la pesca, la seguridad alimentaria y la econom\xEDa de millones de personas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685710231056300319, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Reduce tu consumo energ\xE9tico. Apaga luces, usa bombillas LED y aparatos
+        eficientes.\n\nExige pol\xEDticas clim\xE1ticas que reduzcan emisiones.\n\nPlanta
+        \xE1rboles y protege los bosques, que tambi\xE9n capturan CO\u2082.\n\nInf\xF3rmate
+        sobre la relaci\xF3n entre cambio clim\xE1tico y oc\xE9anos.\n\nParticipa
+        en iniciativas de reforestaci\xF3n costera o manglares, que ayudan a mitigar
+        el CO\u2082."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946724093539431693, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 963194227}
+    - target: {fileID: 6218885454355560779, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Name
+      value: Grupo_Acidificacion_Oceano
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farDistanceThreshold
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearDistanceThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farCanvases.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearCanvases.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1265717829}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 842293268}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1613433980}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[2]'
+      value: 
+      objectReference: {fileID: 26112784}
+    - target: {fileID: 9081583912578131578, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Acidificacion de \nlos Oceanos"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
 --- !u!1 &1756562427
 GameObject:
   m_ObjectHideFlags: 0
@@ -5037,6 +5414,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1780776205}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1920702035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6955806881170366113, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+  m_PrefabInstance: {fileID: 2081871055}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1974775108
 GameObject:
   m_ObjectHideFlags: 0
@@ -5475,6 +5857,187 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025103445}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &2033982489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 785933935932689934, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 1067773303244597866, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 1239186195642847877, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1417269355}
+    - target: {fileID: 1840172391990293430, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 4185919873676761991, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1417269355}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.46174863
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.8870109
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -125
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946724093539431693, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1417269355}
+    - target: {fileID: 5086914514632032645, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1417269355}
+    - target: {fileID: 6218885454355560779, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Name
+      value: Grupo_Contaminacion
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farDistanceThreshold
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearDistanceThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farCanvases.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearCanvases.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 731887767}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[1]'
+      value: 
+      objectReference: {fileID: 573051442}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1147144072}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[3]'
+      value: 
+      objectReference: {fileID: 1265717829}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 306096981}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[1]'
+      value: 
+      objectReference: {fileID: 451126311}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[2]'
+      value: 
+      objectReference: {fileID: 120542539}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[3]'
+      value: 
+      objectReference: {fileID: 306096981}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[4]'
+      value: 
+      objectReference: {fileID: 1364534478}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[5]'
+      value: 
+      objectReference: {fileID: 1668011804}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[6]'
+      value: 
+      objectReference: {fileID: 321677353}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[7]'
+      value: 
+      objectReference: {fileID: 1920702035}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[8]'
+      value: 
+      objectReference: {fileID: 1658995299}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[9]'
+      value: 
+      objectReference: {fileID: 842293268}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[10]'
+      value: 
+      objectReference: {fileID: 1613433980}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[11]'
+      value: 
+      objectReference: {fileID: 26112784}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
 --- !u!1 &2043336756
 GameObject:
   m_ObjectHideFlags: 0
@@ -5691,6 +6254,158 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068392533}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &2081871055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 785933935932689934, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 932964556480054532, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "El aumento de temperatura en los oc\xE9anos ha causado la muerte de
+        hasta el 50% de los corales desde 1950.\n\nEl blanqueamiento ocurre cuando
+        los corales expulsan las algas simbi\xF3ticas (zooxantelas) por estr\xE9s
+        t\xE9rmico.\n\nLos arrecifes coralinos son el hogar de m\xE1s del 25% de
+        las especies marinas conocidas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1067773303244597866, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 1840172391990293430, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b473247af62e4b64aad334bb6fc74146, type: 2}
+    - target: {fileID: 3778555352952512964, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7803b67128e8baa4cb15a27334fe06bc, type: 3}
+    - target: {fileID: 3945634590137511552, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Los corales son animales, no plantas ni rocas. Viven en simbiosis con
+        algas microsc\xF3picas.\n\nAct\xFAan como barreras naturales contra tormentas
+        y huracanes.\n\nMuchos medicamentos provienen de organismos marinos que viven
+        en los arrecifes."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685710231056300319, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: "Reduce tu huella de carbono: camina, usa bici, transporte p\xFAblico
+        o energ\xEDa renovable.\n\nNo compres productos de coral ni souvenirs marinos.\n\nApoya
+        proyectos de restauraci\xF3n de arrecifes.\n\nComparte el conocimiento sobre
+        la importancia de los corales en redes y escuelas.\n\nEvita productos cosm\xE9ticos
+        con qu\xEDmicos da\xF1inos para los corales (como oxibenzona)."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.46174863
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8870109
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 4812820790108567441, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946724093539431693, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 963194227}
+    - target: {fileID: 6218885454355560779, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_Name
+      value: Grupo_Blanqueamiento_Corales
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: playerTransform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farDistanceThreshold
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearDistanceThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: farCanvases.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: nearCanvases.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'farCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1147144072}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[0]'
+      value: 
+      objectReference: {fileID: 321677353}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1920702035}
+    - target: {fileID: 7180770375165016834, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: 'nearCanvases.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1658995299}
+    - target: {fileID: 9081583912578131578, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
+      propertyPath: m_text
+      value: Blanqueamiento de corales
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03e0e003e78f6464e9e5b8fc57e9b1b2, type: 3}
 --- !u!1 &2121074286
 GameObject:
   m_ObjectHideFlags: 0
@@ -5817,3 +6532,7 @@ SceneRoots:
   - {fileID: 1110043232}
   - {fileID: 1577977374}
   - {fileID: 436967848}
+  - {fileID: 2033982489}
+  - {fileID: 392437424}
+  - {fileID: 2081871055}
+  - {fileID: 1724110566}
