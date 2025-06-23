@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    public float movementSpeed = 2;
+    public float movementSpeed = 6f;
     public float gravity = -9.8f;
     public Transform cameraTransform;
     public float sensitivity = 0.5f;
@@ -15,7 +15,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     private CharacterController _characterController;
 
     private Vector2 _movement;
-    private Vector2 _velocity;
+    private Vector3 _velocity;
     private Vector2 _look;
 
     private float _currentRotationY;
